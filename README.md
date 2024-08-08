@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <a href="www.linkedin.com/in/ameurbellil" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="amer-bellil"></p>
+<p align="left"> <a href="www.linkedin.com/in/ameurbellil" target="blank"><img src="https://img.shields.io/linkedin/follow/ameurbellil?logo=twitter&style=for-the-badge" alt="amer-bellil"></p>
 
 - 🔭 I’m currently studing on **National Engineering School of Sousse**
 
