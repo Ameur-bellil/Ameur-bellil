@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ameur Bellil</h1>
-<h3 align="center">A passionate Applied Computer Science Engineering Student from Tunisia</h3>
+<h3 align="center">Computer Science Engineering Student</h3>
 
 
 - 🔭 I’m currently studing on **National Engineering School of Sousse**
