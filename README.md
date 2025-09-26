@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently studing on **National Engineering School of Sousse**
 
-- 🌱 I’m currently learning **Spring , SpringBoot**
-
 - 📫 How to reach me **ameur.bellil@eniso.u-sousse.tn**
 
 <h3 align="left">Languages and Tools:</h3>
